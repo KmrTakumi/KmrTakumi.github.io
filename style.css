@@ -61,14 +61,11 @@ a {
 }
 
 .lists {
+    display: inline-block;
     font-size: 1.5em;
     border: darkgray 0.1em solid;
     border-radius: 0.75em;
-}
-
-.lists > a {
-    display: inline-block;
-    
+    text-align: center;
 }
 
 .techblog {
