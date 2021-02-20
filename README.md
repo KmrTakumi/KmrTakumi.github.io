@@ -1,3 +1,3 @@
 # KmrTakumi.github.io
 
-kmrtakumi.com lists my SNS account and content.
+kmrtakumi.com lists my SNS accounts and contents.
